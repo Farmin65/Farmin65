@@ -1,7 +1,7 @@
 ### 👋 Привет! Я Евгений — студент КФ МГТУ им. Баумана
 
 <p align="left">
-  <a href="t.me/Evkho">
+  <a href="http://t.me/Evkho">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=whit" />
   </a>
   <a href="evgenkhokhlov190@gmail.com">
