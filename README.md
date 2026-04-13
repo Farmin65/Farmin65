@@ -1,13 +1,10 @@
-### 👋 Привет! Я [Имя Друга] — студент КФ МГТУ им. Баумана
+### 👋 Привет! Я Евгений — студент КФ МГТУ им. Баумана
 
 <p align="left">
-  <a href="ССЫЛКА_НА_ТЕЛЕГРАМ_ДРУГА">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  <a href="t.me/Evkho">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=whit" />
   </a>
-  <a href="ССЫЛКА_НА_LINKEDIN_ДРУГА">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ПОЧТА_ДРУГА">
+  <a href="evgenkhokhlov190@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -20,7 +17,7 @@
 
 *   🎯 Цель: Стажировка Data Analyst / QA Automation (Python).
 *   📍 Готов к переезду: Калуга / Москва (гибрид / удаленка).
-*   ⚙️ Среда обитания: Jupyter Notebook, VS Code, терминал, кулер с водой на 3 этаже 5-го корпуса.
+*   ⚙️ Среда обитания: Jupyter Notebook, VS Code, терминал, блинная в МОАЗе.
 
 ---
 
@@ -59,9 +56,6 @@
 
 ### 📫 Связаться
 
-*   Telegram: [@НикДруга](https://t.me/НикДруга)
+*   Telegram: [@Evkho](https://t.me/Evkho)
 *   Резюме: [Ссылка на резюме](ссылка)
 
----
-
-> *P.S. Мы с [Твое Имя] одногруппники, работаем в тесной связке. Справляемся с любыми задачами, даже если это жесткий дедлайн или полная... жопа.*
