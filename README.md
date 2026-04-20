@@ -41,8 +41,8 @@
 | Название | Описание | Стек |
 |----------|----------|------|
 | [Анализ логистики](https://github.com/Farmin65/Logistics_analysis) | Исследование данных грузоперевозок, выявление аномалий в маршрутах. | Pandas, Matplotlib, SQL |
-| [API Автотесты](ссылка) | Тестовый фреймворк для REST API на Pytest. | Python, Pytest, Requests |
-| [Парсер данных](ссылка) | Сбор и структурирование данных с открытых источников. | BeautifulSoup, Pandas |
+| [API Автотесты]((https://github.com/Farmin65/api-testing-framework)) | Тестовый фреймворк для REST API на Pytest. | Python, Pytest, Requests |
+| [Парсер данных]((https://github.com/Farmin65?tab=repositories)) | Сбор и структурирование данных с открытых источников. | BeautifulSoup, Pandas |
 
 ---
 
