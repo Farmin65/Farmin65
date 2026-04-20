@@ -42,7 +42,7 @@
 |----------|----------|------|
 | [Анализ логистики](https://github.com/Farmin65/Logistics_analysis) | Исследование данных грузоперевозок, выявление аномалий в маршрутах. | Pandas, Matplotlib, SQL |
 | [API Автотесты](https://github.com/Farmin65/api-testing-framework) | Тестовый фреймворк для REST API на Pytest. | Python, Pytest, Requests |
-| [Парсер данных](https://github.com/Farmin65?tab=repositories) | Сбор и структурирование данных с открытых источников. | BeautifulSoup, Pandas |
+| [Парсер данных](https://github.com/Farmin65/Podcast) | Сбор и структурирование данных с открытых источников. | BeautifulSoup, Pandas |
 
 ---
 
