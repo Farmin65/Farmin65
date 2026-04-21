@@ -1,4 +1,4 @@
-###  Хай, я Евгений - студент КФ МГТУ им. Баумана
+### Я Евгений - студент КФ МГТУ им. Баумана
 
 <p align="left">
   <a href="http://t.me/Evkho">
@@ -13,11 +13,11 @@
 
 ### Обо мне
 
-Учусь на направлении Data Science и Аналитика. Превращаю хаос данных в стройные дашборды и рабочие модели. Умею гуглить, читать документацию и не бояться легаси-кода.
+Учусь на направлении Data Science и Аналитика. 
 
 *   Цель: Стажировка Data Analyst / QA Automation (Python).
 *   Готов к переезду: Калуга / Москва (гибрид / удаленка).
-*   Среда обитания: Jupyter Notebook, VS Code, терминал, блинная в МОАЗе.
+*   Среда обитания: Jupyter Notebook, VS Code, терминал.
 
 ---
 
@@ -40,6 +40,7 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
+| [ETL-пайплайн](https://github.com/Farmin65/ecommerce-sales-etl-pipeline) | ETL-пайплайн обработки данных о продажах | Airflow, Pandas |
 | [Анализ логистики](https://github.com/Farmin65/Logistics_analysis) | Исследование данных грузоперевозок, выявление аномалий в маршрутах. | Pandas, Matplotlib, SQL |
 | [API Автотесты](https://github.com/Farmin65/api-testing-framework) | Тестовый фреймворк для REST API на Pytest. | Python, Pytest, Requests |
 | [Парсер данных](https://github.com/Farmin65/Podcast) | Сбор и структурирование данных с открытых источников. | BeautifulSoup, Pandas |
