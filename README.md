@@ -1,14 +1,5 @@
 ### Я Евгений - студент КФ МГТУ им. Баумана
 
-<p align="left">
-  <a href="http://t.me/Evkho">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=whit" />
-  </a>
-  <a href="evgenkhokhlov190@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### Обо мне
