@@ -31,7 +31,7 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| [ETL-пайплайн](https://github.com/Farmin65/ecommerce-sales-etl-pipeline) | ETL-пайплайн обработки данных о продажах | Airflow, Pandas |
+| [ETL-пайплайн](https://github.com/Farmin65/Airflow-ETL-Project) | ETL-пайплайн обработки данных о продажах | Airflow, Pandas |
 | [Анализ логистики](https://github.com/Farmin65/Logistics_analysis) | Исследование данных грузоперевозок, выявление аномалий в маршрутах. | Pandas, Matplotlib, SQL |
 | [API Автотесты](https://github.com/Farmin65/api-testing-framework) | Тестовый фреймворк для REST API на Pytest. | Python, Pytest, Requests |
 | [API-Платформа-Подкастов](https://github.com/Farmin65/Podcast) |Backend подкаст-платформы с аналитикой, монетизацией и JWT. | Swagger UI, FastAPI, JWT |
