@@ -8,7 +8,7 @@
 
 *   Цель: Стажировка Data Analyst / QA Automation (Python).
 *   Готов к переезду: Калуга / Москва (гибрид / удаленка).
-*   Среда обитания: Jupyter Notebook, VS Code, терминал.
+*   Среда обитания: Jupyter Notebook, PyCharm, DataGrip.
 
 ---
 
