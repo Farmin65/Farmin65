@@ -41,5 +41,5 @@
 ### Связаться
 
 *   Telegram: [@Evkho](https://t.me/Evkho)
-*   Резюме: [Ссылка на резюме](ссылка)
+*   Резюме: [Ссылка на резюме](https://docs.google.com/document/d/1UDZDKBkZH0cqGB-GK5VU5ilEd9Nz-mOq/edit?usp=sharing&ouid=116073164212403194260&rtpof=true&sd=true)
 
